@@ -1,0 +1,13 @@
+import fuggvenyek
+print("0-150 páros számok\n\n")
+fuggvenyek.null_150()
+print("\nHárommal osztható")
+fuggvenyek.harommal_oszthato()
+fuggvenyek.tizzel_oszthato()
+fuggvenyek.tizzel_oszthato()
+fuggvenyek.ketjegyu_paros()
+pozitiv_paratlan()
+negyzetszam()
+csak_pozitiv()
+atlagolas()
+harom_karakter()
